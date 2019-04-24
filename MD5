@@ -1,0 +1,17 @@
+848c609144cfa6ab665fb30d9ee37f24 *DESCRIPTION
+69f00e07000b1a9953bbb6f88e639ec2 *LICENSE
+e3138b58261f654d55e37a7b652df28f *NAMESPACE
+e18a2b5d6c06d0208b84365633e93377 *R/alts.R
+958380adbc5bebd98618addb3d01589d *R/data.R
+20a8e5ef03fd0f4f063beb8a81a71044 *R/fardeep.R
+4b540b67609ef000aa66ddd43244ab24 *R/sample.sim.R
+77a652247a2ca042e84a41c592a49b96 *R/tuningBIC.R
+aa68817ffcc4eccc436dbee627d43d45 *data/LM22.RData
+677e1e59443bf94c85aaf88ace8b65ef *data/datalist
+0a195160593af444520a3b9ff9cc8651 *data/mixture.RData
+e5164bd8bb029af35f98c3b9f9a08c85 *man/LM22.Rd
+ca691c2ea92c660a6241ddf17a81eb29 *man/alts.Rd
+62dc29b14987fe6ca40b8b9b29cecfaf *man/fardeep.Rd
+800031e475b5d0b337472b4d643390b7 *man/mixture.Rd
+e72c583151cb73450fa0ad21447088c9 *man/sample.sim.Rd
+fd89484f87eeb7289580c9ec9f3bf1b5 *man/tuningBIC.Rd
